@@ -1,4 +1,4 @@
 # hello-world
 quick study guide 
 
-version control platform 
+study how to use github
